@@ -8,3 +8,7 @@ Saves data into url:
 - http://localhost:8080/doors
 - http://localhost:8080/objects
 - http://localhost:8080/events
+
+add jar file to .openosrs folder and in plugins:
+
+![image](https://user-images.githubusercontent.com/81003470/161666560-33cc6388-08d6-4259-89ee-16640af44221.png)
