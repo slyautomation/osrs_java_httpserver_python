@@ -8,6 +8,9 @@ Saves data into url:
 - http://localhost:8080/doors
 - http://localhost:8080/objects
 - http://localhost:8080/events
+- http://localhost:8080/post
+- http://localhost:8080/inv
+- http://localhost:8080/equip
 
 add jar file to .openosrs folder and in plugins:
 
@@ -17,6 +20,13 @@ add jar file to .openosrs folder and in plugins:
 
 http://localhost:8080/stats
 
-tracks xp gained for each skill
+- tracks xp gained for each skill
 
 ![image](https://user-images.githubusercontent.com/81003470/172141180-2f9919f1-dff0-4034-9b47-fdbbb6a53e25.png)
+
+http://localhost:8080/events
+
+- logs health and remaining
+- if in combat the name of the npc and its health
+- Max distance which affects what is displayed on objects/doors and post 
+![image](https://user-images.githubusercontent.com/81003470/172147146-9fb8cbe6-7597-4d6d-b078-c66bd3d65b23.png)
