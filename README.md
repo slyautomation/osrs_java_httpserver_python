@@ -12,3 +12,11 @@ Saves data into url:
 add jar file to .openosrs folder and in plugins:
 
 ![image](https://user-images.githubusercontent.com/81003470/161666560-33cc6388-08d6-4259-89ee-16640af44221.png)
+
+## UPDATES
+
+http://localhost:8080/stats
+
+tracks xp gained for each skill
+
+![image](https://user-images.githubusercontent.com/81003470/172141180-2f9919f1-dff0-4034-9b47-fdbbb6a53e25.png)
